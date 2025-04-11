@@ -6,10 +6,11 @@
 
 
 <h1>
-  Bom Momento, Eu sou Heitor.
+  Opa, Eu sou Heitor. 🦤
 </h1>
 <p>
-  estou fazendo curso tecnico no senai e estou aprendendo por enquanto:
+  Por enquanto estou fazendo meu ensino medio junto <br>
+  com um curso tecnico no senai e estou aprendendo por enquanto:
   <br>
 </p>
 <hr>
