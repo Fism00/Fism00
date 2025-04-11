@@ -4,7 +4,7 @@
 <style>
    img{
     width:30px
-    }
+    };
 </style>
 
 <h1>
