@@ -21,3 +21,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60px" />
 </div>
 <hr>
+<p>
+  peça que tenha paciencia com a minha eficiencia, eu juro que eu faço meu melhor.
+</p>
