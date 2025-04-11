@@ -2,7 +2,7 @@
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </head>
 <style>
-  i{
+   img{
     width:30px
     }
 </style>
@@ -14,4 +14,5 @@
   estou fazendo curso tecnico no senai e estou aprendendo por enquanto:
   <br>
 </p>
-<i class="devicon-css3-plain-wordmark"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
+
