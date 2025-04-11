@@ -3,8 +3,8 @@
 </head>
 <style>
    .icones{
-    width:30px
-    };
+    width: 30px;
+    }
 </style>
 
 <h1>
