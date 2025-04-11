@@ -1,14 +1,6 @@
 <head>
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </head>
-<script>
-  function sinistro(){
-    console.log('olá console.');
-    }
-</script>
-
-
-
 <h1>
   Opa, Eu sou Heitor. 🦤
 </h1>
