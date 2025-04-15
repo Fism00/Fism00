@@ -2,7 +2,7 @@
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </head>
 <h1>
-  Opa, Eu sou Heitor. 🦤
+  Opa, Eu sou Heitor. 🦆
 </h1>
 <p>
   Por enquanto estou fazendo meu ensino medio junto <br>
