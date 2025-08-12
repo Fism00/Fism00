@@ -18,5 +18,5 @@
 </div>
 <hr>
 <p>
-  peça que tenha paciencia com a minha eficiencia, eu juro que eu faço meu melhor.
+  peço que tenha paciencia com a minha eficiencia, eu juro que eu faço meu melhor.
 </p>
